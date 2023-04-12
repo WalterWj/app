@@ -5,8 +5,8 @@ import java.sql.*;
 public class MysqlDemo {
 
     // MySQL 8.0 以下版本 - JDBC 驱动名及数据库 URL
-   // static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-   // static final String DB_URL = "jdbc:mysql://127.0.0.1:4201/RUNOOB";
+    // static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
+    // static final String DB_URL = "jdbc:mysql://127.0.0.1:4201/RUNOOB";
 
     // MySQL 8.0 以上版本 - JDBC 驱动名及数据库 URL
     
