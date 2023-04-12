@@ -1,4 +1,4 @@
-package com.runoob.test;
+package app.src.main.java.demo;
 
 import java.sql.*;
 
